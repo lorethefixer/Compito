@@ -5,11 +5,11 @@ using namespace std;
 
 int main()
 {
-	//for cycle that print the j variable
-	for (int j = 0; j < 11; j++) {
-		//Print variable j
-		cout << "Counter: " << j << endl;
-	}
-	system("PAUSE");
+  //for cycle that increment j variable
+  for (int j = 0; j < 11; j++) {
+      //Output j on screen
+      cout << "Contatore j: " << j << endl;
+  }
+  system("PAUSE");
 }
 
