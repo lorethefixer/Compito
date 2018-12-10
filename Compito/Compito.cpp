@@ -7,7 +7,8 @@ int main()
 {
 	//for cycle that print the j variable on screen
 	for (int j = 0; j < 11; j++) {
-		cout << "Contatore: " << j << endl;
+		//Print variable j
+		cout << "Counter: " << j << endl;
 	}
 	system("PAUSE");
 }
