@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	//for cycle that print the j variable on screen
-	for (int j = 0; j < 10; j++) {
+	for (int j = 0; j < 11; j++) {
 		cout << "Contatore: " << j << endl;
 	}
 	system("PAUSE");
